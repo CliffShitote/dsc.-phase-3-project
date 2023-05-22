@@ -20,11 +20,12 @@ The Data: For this project, I will use a fictional dataset specifically created 
 14.CustomerServiceCalls: Number of customer service calls made by the customer.
 15.Churn: Binary indicator of whether the customer churned or not.
 Data Cleaning and EDA: Minimal data cleaning was required, however there was a need to manage missing values, duplicates, and outliers.
-ANAYSIS OF TELECOMMUNICATION PROVIDERS ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/71b57184-ca2b-44d7-b8ba-4448e1addc23)
-Analysis numerical data  ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/300f2e1b-a301-4ab6-a778-dc32da8d3533)
-FEATURES CORRELATION WITH TARGET VARIABLES (churn)![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/2187a10d-ee78-4005-897c-c27d2347f1b0)
-MODEL RESULTS ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/f5e1d22a-b7ae-419f-a281-9064f0b3de69)
-Comparing Models using ROC Curve Analysis![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/a337b78d-bfa5-4b74-8d73-4c3156ee5dad) Based on the ROC-AUC scores comparison of the 4 machine learning models, it can be concluded that the Random Forest model performed the best. Therefore, this model will be chosen to make predictions on new data in the future.
+ANAYSIS OF TELECOMMUNICATION PROVIDERS ![Screenshot (443)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/53ba0fc7-36b5-4aaa-bb43-6b7c35676690)
+Analysis numerical data  ![Screenshot (448)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/c46d98c5-9426-491f-9a6c-c5e119b2f6ca)
+FEATURES CORRELATION WITH TARGET VARIABLES (churn)![Screenshot (449)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/14ed1a43-e716-40c9-bbaa-907bb42b2774)
+MODEL RESULTS ![Screenshot (450)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/da78b605-77c7-4b44-a2f2-cc26595fd82e)
+Comparing Models using ROC Curve Analysis ![Screenshot (451)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/520c0ac3-446c-44f3-8eeb-5260912799a5)
+Based on the ROC-AUC scores comparison of the 4 machine learning models, it can be concluded that the Random Forest model performed the best. Therefore, this model will be chosen to make predictions on new data in the future.
 Conclusion: In conclusion, the analysis conducted to predict customer churn for SyriaTel, a telecommunications company, has provided valuable insights and recommendations to improve customer retention strategies. Through the modeling and evaluation process, a predictive model was developed to identify customers who are likely to churn. The analysis revealed that several factors contribute to customer churn in the telecom industry. By analyzing the dataset and building the predictive model, it was found that features such as call duration, customer complaints, billing issues, and contract type play a significant role in predicting churn. The model showed promising performance in accurately identifying potential churners.
 ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/d2f3b9bf-800e-4e64-9f04-fc51defe3631)
 Recommendations: Enhance customer satisfaction and address complaints promptly.
