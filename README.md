@@ -2,6 +2,7 @@ Predicting SyriaTel Customer Churn![image](https://github.com/CliffShitote/dsc.-
 ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/a7794ee7-fa45-4948-b59b-10596201f2db)
 
 Project Overview
+The SyriaTel Customer Churn dataset is a collection of data that focuses on customer behavior and churn patterns in the telecommunications industry. 
 ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/6920f119-45a3-4434-9f48-1139a7e369bb)
 
 Business problem
