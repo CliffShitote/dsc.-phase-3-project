@@ -9,7 +9,9 @@ Business problem
  
  The business problem in the SyriaTel Customer Churn project is customer churn in the telecommunications industry. Churn refers to customers discontinuing services or switching to competitors, resulting in revenue loss and increased acquisition costs. The goal is to identify factors and patterns contributing to churn in SyriaTel. 
  
-The Data: For this project, I will use a fictional dataset specifically created to simulate customer churn in a telecommunications company like SyriaTel. The dataset includes various features related to customer behavior, account information, and usage patterns. The dataset includes the following features (not an exhaustive list):
+The Data:
+
+For this project, I will use a fictional dataset specifically created to simulate customer churn in a telecommunications company like SyriaTel. The dataset includes various features related to customer behavior, account information, and usage patterns. The dataset includes the following features (not an exhaustive list):
 
 1.CustomerID: Unique identifier for each customer.
 
@@ -56,13 +58,4 @@ In conclusion, the analysis conducted to predict customer churn for SyriaTel, a 
 
 Recommendations:
 
-Enhance customer satisfaction and address complaints promptly.
-Offer incentives for long-term contracts to promote customer loyalty.
-Proactively reach out to customers to address concerns and provide support.
-Design targeted marketing campaigns to engage and retain high-risk customers.
-Continuously improve product and service offerings based on market trends and feedback.
-Provide exceptional customer service and empower customer service representatives.
-Monitor customer behavior and usage patterns to identify early signs of churn.
-Foster customer loyalty and engagement through various channels.
-Regularly evaluate and refine the churn prediction model for improved accuracy.
-Foster collaboration between departments to ensure a holistic approach to customer retention.
+![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/a4fbbe51-ce98-4f10-b58e-c19d29d15804)
