@@ -39,4 +39,4 @@ Provide exceptional customer service and empower customer service representative
 Monitor customer behavior and usage patterns to identify early signs of churn.
 Foster customer loyalty and engagement through various channels.
 Regularly evaluate and refine the churn prediction model for improved accuracy.
-Foster collaboration between departments to ensure a holistic approach to customer retention![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/b52412c9-e54a-4c46-bff5-c826490081ca)
+Foster collaboration between departments to ensure a holistic approach to customer retention
