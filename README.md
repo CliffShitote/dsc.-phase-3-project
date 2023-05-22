@@ -28,7 +28,9 @@ Comparing Models using ROC Curve Analysis ![Screenshot (451)](https://github.com
 Based on the ROC-AUC scores comparison of the 4 machine learning models, it can be concluded that the Random Forest model performed the best. Therefore, this model will be chosen to make predictions on new data in the future.
 Conclusion: In conclusion, the analysis conducted to predict customer churn for SyriaTel, a telecommunications company, has provided valuable insights and recommendations to improve customer retention strategies. Through the modeling and evaluation process, a predictive model was developed to identify customers who are likely to churn. The analysis revealed that several factors contribute to customer churn in the telecom industry. By analyzing the dataset and building the predictive model, it was found that features such as call duration, customer complaints, billing issues, and contract type play a significant role in predicting churn. The model showed promising performance in accurately identifying potential churners.
 ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/d2f3b9bf-800e-4e64-9f04-fc51defe3631)
-Recommendations: Enhance customer satisfaction and address complaints promptly.
+Recommendations:
+
+Enhance customer satisfaction and address complaints promptly.
 Offer incentives for long-term contracts to promote customer loyalty.
 Proactively reach out to customers to address concerns and provide support.
 Design targeted marketing campaigns to engage and retain high-risk customers.
