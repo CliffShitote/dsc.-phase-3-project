@@ -4,11 +4,10 @@ Predicting SyriaTel Customer Churn![image](https://github.com/CliffShitote/dsc.-
 Project Overview
 
 The SyriaTel Customer Churn dataset is a collection of data that focuses on customer behavior and churn patterns in the telecommunications industry. 
-![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/6920f119-45a3-4434-9f48-1139a7e369bb)
 
 Business problem
- ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/d2c0f0a7-9326-45dd-88ac-181127d89a98)
  
+ The business problem in the SyriaTel Customer Churn project is customer churn in the telecommunications industry. Churn refers to customers discontinuing services or switching to competitors, resulting in revenue loss and increased acquisition costs. The goal is to identify factors and patterns contributing to churn in SyriaTel. 
  
 The Data: For this project, I will use a fictional dataset specifically created to simulate customer churn in a telecommunications company like SyriaTel. The dataset includes various features related to customer behavior, account information, and usage patterns. The dataset includes the following features (not an exhaustive list):
 
@@ -51,6 +50,19 @@ MODEL RESULTS ![Screenshot (450)](https://github.com/CliffShitote/dsc.-phase-3-p
 Comparing Models using ROC Curve Analysis ![Screenshot (451)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/520c0ac3-446c-44f3-8eeb-5260912799a5)
 Based on the ROC-AUC scores comparison of the 4 machine learning models, it can be concluded that the Random Forest model performed the best. Therefore, this model will be chosen to make predictions on new data in the future.
 
-Conclusion: ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/d2f3b9bf-800e-4e64-9f04-fc51defe3631)
+Conclusion: 
 
-Recommendations: ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/b52412c9-e54a-4c46-bff5-c826490081ca)
+In conclusion, the analysis conducted to predict customer churn for SyriaTel, a telecommunications company, has provided valuable insights and recommendations to improve customer retention strategies. Through the modeling and evaluation process, a predictive model was developed to identify customers who are likely to churn. The analysis revealed that several factors contribute to customer churn in the telecom industry. By analyzing the dataset and building the predictive model, it was found that features such as call duration, customer complaints, billing issues, and contract type play a significant role in predicting churn. The model showed promising performance in accurately identifying potential churners.
+
+Recommendations:
+
+Enhance customer satisfaction and address complaints promptly.
+Offer incentives for long-term contracts to promote customer loyalty.
+Proactively reach out to customers to address concerns and provide support.
+Design targeted marketing campaigns to engage and retain high-risk customers.
+Continuously improve product and service offerings based on market trends and feedback.
+Provide exceptional customer service and empower customer service representatives.
+Monitor customer behavior and usage patterns to identify early signs of churn.
+Foster customer loyalty and engagement through various channels.
+Regularly evaluate and refine the churn prediction model for improved accuracy.
+Foster collaboration between departments to ensure a holistic approach to customer retention.
