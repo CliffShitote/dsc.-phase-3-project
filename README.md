@@ -1,9 +1,13 @@
 Predicting SyriaTel Customer Churn![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/2dc22c2a-4921-4781-9e34-3d382655d007)
 ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/a7794ee7-fa45-4948-b59b-10596201f2db)
+
 Project Overview
 ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/6920f119-45a3-4434-9f48-1139a7e369bb)
+
 Business problem
  ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/d2c0f0a7-9326-45dd-88ac-181127d89a98)
+ 
+ 
 The Data: For this project, I will use a fictional dataset specifically created to simulate customer churn in a telecommunications company like SyriaTel. The dataset includes various features related to customer behavior, account information, and usage patterns. The dataset includes the following features (not an exhaustive list):
 
 1.CustomerID: Unique identifier for each customer.
