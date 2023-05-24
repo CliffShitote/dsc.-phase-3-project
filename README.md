@@ -1,15 +1,15 @@
 Predicting SyriaTel Customer Churn![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/2dc22c2a-4921-4781-9e34-3d382655d007)
 ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/a7794ee7-fa45-4948-b59b-10596201f2db)
 
-Project Overview
+#Project Overview
 
 The SyriaTel Customer Churn dataset is a collection of data that focuses on customer behavior and churn patterns in the telecommunications industry. 
 
-Business problem
+#Business problem
  
  The business problem in the SyriaTel Customer Churn project is customer churn in the telecommunications industry. Churn refers to customers discontinuing services or switching to competitors, resulting in revenue loss and increased acquisition costs. The goal is to identify factors and patterns contributing to churn in SyriaTel. 
  
-The Data:
+#The Data:
 
 For this project, I will use a fictional dataset specifically created to simulate customer churn in a telecommunications company like SyriaTel. The dataset includes various features related to customer behavior, account information, and usage patterns. The dataset includes the following features (not an exhaustive list):
 
@@ -43,16 +43,16 @@ For this project, I will use a fictional dataset specifically created to simulat
 
 15.Churn: Binary indicator of whether the customer churned or not.
 
-Data Cleaning and EDA: Minimal data cleaning was required, however there was a need to manage missing values, duplicates, and outliers.
+#Data Cleaning and EDA: Minimal data cleaning was required, however there was a need to manage missing values, duplicates, and outliers.
 
-ANAYSIS OF TELECOMMUNICATION PROVIDERS ![Screenshot (443)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/53ba0fc7-36b5-4aaa-bb43-6b7c35676690)
-Analysis numerical data  ![Screenshot (448)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/c46d98c5-9426-491f-9a6c-c5e119b2f6ca)
-FEATURES CORRELATION WITH TARGET VARIABLES (churn)![Screenshot (449)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/14ed1a43-e716-40c9-bbaa-907bb42b2774)
-MODEL RESULTS ![Screenshot (450)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/da78b605-77c7-4b44-a2f2-cc26595fd82e)
-Comparing Models using ROC Curve Analysis ![Screenshot (451)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/520c0ac3-446c-44f3-8eeb-5260912799a5)
-Based on the ROC-AUC scores comparison of the 4 machine learning models, it can be concluded that the Random Forest model performed the best. Therefore, this model will be chosen to make predictions on new data in the future.
+#Analysis of telecommunication providers ![Screenshot (443)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/53ba0fc7-36b5-4aaa-bb43-6b7c35676690)
+#Analysis numerical data  ![Screenshot (448)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/c46d98c5-9426-491f-9a6c-c5e119b2f6ca)
+#Features Correlation With Target Variables (churn)![Screenshot (449)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/14ed1a43-e716-40c9-bbaa-907bb42b2774)
+#Model results ![Screenshot (450)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/da78b605-77c7-4b44-a2f2-cc26595fd82e)
+#Comparing Models using ROC Curve Analysis ![Screenshot (451)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/520c0ac3-446c-44f3-8eeb-5260912799a5)
+#Based on the ROC-AUC scores comparison of the 4 machine learning models, it can be concluded that the Random Forest model performed the best. Therefore, this model will be chosen to make predictions on new data in the future.
 
-EVALUATION OF THE FINAL MODEL
+#EVALUATION OF THE FINAL MODEL
 
 Based on the provided classification report, here is the evaluation of the final model:
 
@@ -75,10 +75,10 @@ In summary, the final model achieves a high accuracy of 94.2%, with good precisi
 Please note that these evaluation metrics are based on the provided dataset and may vary when applied to new, unseen data. It is crucial to validate the model's performance on a separate test set or through cross-validation to ensure its generalizability.
 
 
-Conclusion: 
+#Conclusion: 
 
 In conclusion, the analysis conducted to predict customer churn for SyriaTel, a telecommunications company, has provided valuable insights and recommendations to improve customer retention strategies. Through the modeling and evaluation process, a predictive model was developed to identify customers who are likely to churn. The analysis revealed that several factors contribute to customer churn in the telecom industry. By analyzing the dataset and building the predictive model, it was found that features such as call duration, customer complaints, billing issues, and contract type play a significant role in predicting churn. The model showed promising performance in accurately identifying potential churners.
 
-Recommendations:
+#Recommendations:
 
 ![image](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/a4fbbe51-ce98-4f10-b58e-c19d29d15804)
