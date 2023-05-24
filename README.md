@@ -52,6 +52,29 @@ MODEL RESULTS ![Screenshot (450)](https://github.com/CliffShitote/dsc.-phase-3-p
 Comparing Models using ROC Curve Analysis ![Screenshot (451)](https://github.com/CliffShitote/dsc.-phase-3-project/assets/124627374/520c0ac3-446c-44f3-8eeb-5260912799a5)
 Based on the ROC-AUC scores comparison of the 4 machine learning models, it can be concluded that the Random Forest model performed the best. Therefore, this model will be chosen to make predictions on new data in the future.
 
+EVALUATION OF THE FINAL MODEL
+
+Based on the provided classification report, here is the evaluation of the final model:
+
+Accuracy: 94.2% Precision:
+
+Class 0 (non-churned customers): 94% Class 1 (churned customers): 96% Recall (Sensitivity):
+
+Class 0 (non-churned customers): 100% Class 1 (churned customers): 63% F1-score:
+
+Class 0 (non-churned customers): 97% Class 1 (churned customers): 76% Support:
+
+Class 0 (non-churned customers): 855 Class 1 (churned customers): 145 The accuracy of the model is 94.2%, indicating that it correctly predicts the churn status of 94.2% of the customers. Precision represents the proportion of correctly predicted positive instances out of the total predicted positive instances. In this case, the precision for class 0 (non-churned customers) is 94%, indicating that 94% of the predicted non-churned customers are actually non-churned. The precision for class 1 (churned customers) is 96%, indicating that 96% of the predicted churned customers are actually churned.
+
+Recall, also known as sensitivity or true positive rate, represents the proportion of correctly predicted positive instances out of the total actual positive instances. The recall for class 0 (non-churned customers) is 100%, indicating that the model correctly identifies all the non-churned customers. The recall for class 1 (churned customers) is 63%, indicating that the model captures only 63% of the actual churned customers.
+
+The F1-score is the harmonic mean of precision and recall. It provides a balanced measure between precision and recall. The F1-score for class 0 (non-churned customers) is 97%, indicating a good balance between precision and recall. The F1-score for class 1 (churned customers) is 76%, indicating that the model's performance in capturing churned customers is comparatively lower.
+
+In summary, the final model achieves a high accuracy of 94.2%, with good precision and recall for class 0 (non-churned customers). However, the model's performance in identifying churned customers (class 1) could be further improved to increase the recall.
+
+Please note that these evaluation metrics are based on the provided dataset and may vary when applied to new, unseen data. It is crucial to validate the model's performance on a separate test set or through cross-validation to ensure its generalizability.
+
+
 Conclusion: 
 
 In conclusion, the analysis conducted to predict customer churn for SyriaTel, a telecommunications company, has provided valuable insights and recommendations to improve customer retention strategies. Through the modeling and evaluation process, a predictive model was developed to identify customers who are likely to churn. The analysis revealed that several factors contribute to customer churn in the telecom industry. By analyzing the dataset and building the predictive model, it was found that features such as call duration, customer complaints, billing issues, and contract type play a significant role in predicting churn. The model showed promising performance in accurately identifying potential churners.
